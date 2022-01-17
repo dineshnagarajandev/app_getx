@@ -1,4 +1,4 @@
-# get_x_101
+# app_getx
 
 A new Flutter project.
 

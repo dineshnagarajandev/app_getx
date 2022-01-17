@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/instance_manager.dart';
-import 'package:get_x_101/controller.dart';
+import 'package:app_getx/controller.dart';
 
 class Other extends StatelessWidget {
   const Other({Key? key}) : super(key: key);

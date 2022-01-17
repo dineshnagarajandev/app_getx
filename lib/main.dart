@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get_x_101/controller.dart';
-import 'package:get_x_101/other.dart';
+import 'package:app_getx/controller.dart';
+import 'package:app_getx/other.dart';
 
 void main() {
   const GetMaterialApp app = GetMaterialApp(
     home: Home(),
+    debugShowCheckedModeBanner: false,
   );
   runApp(app);
 }

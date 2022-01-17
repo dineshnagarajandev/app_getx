@@ -1,6 +1,6 @@
 {
-    "name": "get_x_101",
-    "short_name": "get_x_101",
+    "name": "app_getx",
+    "short_name": "app_getx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
