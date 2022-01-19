@@ -9,6 +9,7 @@ class Other extends StatelessWidget {
   Widget build(BuildContext context) {
     final Controller c = Get.find();
     return Scaffold(
+      appBar: AppBar(title: Text("Other")),
       body: Center(
         child: Text("${c.count}"),
       ),
